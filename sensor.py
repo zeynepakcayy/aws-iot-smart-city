@@ -22,7 +22,7 @@ from awscrt import mqtt
 
 # AWS IoT Core'daki cihaz özel endpoint'iniz.
 # Bu adresi AWS Konsolu > IoT Core > Settings bölümünden bulabilirsiniz.
-AWS_IOT_ENDPOINT = "a2mzrnb96fxzyy-ats.iot.eu-central-1.amazonaws.com"
+AWS_IOT_ENDPOINT = "YENI_AWS_ENDPOINT_ADRESIN"
 
 # Sertifika dosyalarının yolları.
 # Bu dosyaları AWS'den indirip proje klasörü altındaki 'certs' klasörüne koyun.

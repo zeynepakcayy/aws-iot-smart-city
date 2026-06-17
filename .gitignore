@@ -11,3 +11,6 @@ credentials
 # Python Önbellek Dosyaları
 __pycache__/
 *.pyc
+
+
+*.md
