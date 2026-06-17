@@ -1,0 +1,13 @@
+# AWS IoT Core Güvenlik Sertifikaları (Kritik!)
+*.pem
+*.crt
+*.key
+certs/
+
+# AWS Kimlik Bilgileri ve Gizli Dosyalar
+.env
+credentials
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
